@@ -1,0 +1,17 @@
+
+
+1, cd /cygdrive
+2, cd c/
+3, cd Users/
+4, cd vantan/
+5, cd Documents/　←ここは保存したい場所を指定
+6, git clone 作ってあるリポジトリのHTTPSのURL
+
+5まで一緒
+cd クローンしたファイル名/
+git add 入れたファイル名/
+git commit -m "なにかコメント"
+git push
+ギットのIDとパス
+
+
